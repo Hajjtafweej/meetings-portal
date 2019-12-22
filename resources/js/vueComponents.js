@@ -1,0 +1,1 @@
+InstantSearch = require('vue-instantsearch');
